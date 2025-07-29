@@ -1,5 +1,5 @@
 # FUTURE_CS_01
-As part of my internship at Future Interns, I recently completed a practical web application security assessment project designed to simulate real-world penetration testing work for web-application.
+As part of my internship at Future Interns, I recently completed a practical web application security assessment project designed to simulate real-world penetration testing work for web application.
 
 Using tools like OWASP ZAP, Burp Suite, and SQLMap, I tested intentionally vulnerable applications like OWASP Juice Shop and DVWA to uncover issues like SQL injection, XSS, and CSRF.
 
@@ -7,7 +7,7 @@ Using tools like OWASP ZAP, Burp Suite, and SQLMap, I tested intentionally vulne
 
 Performed vulnerability scans & manual testing
 
-Identified and documented 3–5 real security flaws
+Identified and documented 3 real security flaws
 
 Mapped findings to the OWASP Top 10
 
